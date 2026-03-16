@@ -1,6 +1,5 @@
 # 1. Electric Charge
 
-## What
 Electric charge is a **fundamental physical property of matter** that causes it to experience a force when placed in an electromagnetic field.
 
 ## Types of Charge
@@ -11,8 +10,6 @@ There are two types of electric charge:
 - **Negative charge** → carried by electrons
 
 Protons are located in the **nucleus of the atom** and cannot move easily, while electrons can move freely in many materials such as conductors.
-
----
 
 ## Properties of Charge
 
@@ -29,7 +26,6 @@ Where:
 - \(n\) = number of electrons  
 - \(e\) = elementary charge = \(1.602 \times 10^{-19} C\)
 
----
 
 ### 2. Conservation of Charge
 
@@ -40,8 +36,6 @@ It can only be **transferred from one body to another**.
 Example:
 When electrons move from one object to another, the total charge remains constant.
 
----
-
 ## Neutral and Charged Atoms
 
 Normally atoms are **electrically neutral**.
@@ -51,8 +45,6 @@ They become charged when:
 - they **lose electrons** → positive charge
 - they **gain electrons** → negative charge
 
----
-
 ## Detection of Charge
 
 Electric charge can be detected using an **electroscope**.
@@ -60,8 +52,6 @@ Electric charge can be detected using an **electroscope**.
 ---
 
 # 2. Electric Current
-
-## What
 
 Electric current is the **rate of flow of electric charge through a conductor**.
 
@@ -75,7 +65,7 @@ Where:
 - \(Q\) = charge (Coulomb)
 - \(t\) = time (seconds)
 
----
+
 
 ## Unit
 
@@ -91,7 +81,7 @@ or approximately
 
 1 Ampere ≈ \(6.24 \times 10^{18}\) electrons per second.
 
----
+
 
 ## Cause of Current
 
@@ -99,7 +89,7 @@ Current flows because of **potential difference (voltage)** applied across a con
 
 Voltage acts like **electrical pressure** that pushes electrons.
 
----
+
 
 ## Direction of Current
 
@@ -111,7 +101,6 @@ Flows from **positive terminal → negative terminal**
 ### Electron Flow
 Electrons move from **negative terminal → positive terminal**
 
----
 
 ## Types of Current
 
@@ -123,7 +112,7 @@ Example:
 - batteries
 - DC power supplies
 
----
+
 
 ### Alternating Current (AC)
 
@@ -132,7 +121,7 @@ Current **changes direction periodically**.
 Example:
 - household electricity supply
 
----
+
 
 ## Measurement
 
@@ -146,7 +135,6 @@ The ammeter must be connected **in series** with the circuit.
 
 # 3. Voltage (Electric Potential Difference)
 
-## What
 
 Voltage is the **difference in electric potential between two points**.
 
@@ -154,13 +142,13 @@ It represents the **energy required to move electric charge between two points**
 
 Voltage is often described as **electrical pressure** that pushes electrons through a conductor.
 
----
+
 
 ## Unit
 
 Voltage is measured in **Volts (V)**.
 
----
+
 
 ## Formula
 
@@ -174,7 +162,7 @@ Where:
 - \(W\) = work done (energy)
 - \(Q\) = charge
 
----
+
 
 ## Voltage Sources
 
@@ -185,7 +173,7 @@ Common voltage sources include:
 - generators
 - solar cells
 
----
+
 
 ## Measurement
 
