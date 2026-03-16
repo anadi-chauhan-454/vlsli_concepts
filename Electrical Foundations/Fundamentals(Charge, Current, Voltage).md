@@ -124,7 +124,7 @@ A voltmeter must be connected in parallel with the component.
 
 ----------------------------------------------------------------------------------
 
-#Relationship Between Charge, Current, and Voltage
+# Relationship Between Charge, Current, and Voltage
 
 These three quantities are connected in electrical circuits.
 
@@ -136,7 +136,7 @@ Voltage causes charge to move, which produces current.
 
 -----------------------------------------------------------------------------------------
 
-#Summary
+# Summary
 
 | Quantity | Meaning | Unit |
  Charge - Property of matter responsible for electric forces. Coulomb (C) 
