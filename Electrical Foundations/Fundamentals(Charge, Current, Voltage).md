@@ -139,6 +139,7 @@ Voltage causes charge to move, which produces current.
 # Summary
 
 | Quantity | Meaning | Unit |
+|--------|--------|------|
  Charge - Property of matter responsible for electric forces. Coulomb (C) 
  Current - Rate of flow of electric charge. Ampere (A) 
  Voltage - Electrical potential difference between two points. Volt (V) 
