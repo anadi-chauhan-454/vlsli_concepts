@@ -1,4 +1,4 @@
-Electric Charge
+# 1.Electric Charge
 
 Electric charge is a fundamental physical property of matter that causes it to experience a force when placed in an electromagnetic field.
 
@@ -42,7 +42,7 @@ Electric charge can be detected using an electroscope.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
  
-Electric Current
+# 2.Electric Current
 Electric current is the rate of flow of electric charge through a conductor.
 
 I = Q/t
@@ -124,7 +124,7 @@ A voltmeter must be connected in parallel with the component.
 
 ----------------------------------------------------------------------------------
 
-Relationship Between Charge, Current, and Voltage
+#Relationship Between Charge, Current, and Voltage
 
 These three quantities are connected in electrical circuits.
 
@@ -136,7 +136,7 @@ Voltage causes charge to move, which produces current.
 
 -----------------------------------------------------------------------------------------
 
-Summary
+#Summary
 
 | Quantity | Meaning | Unit |
  Charge - Property of matter responsible for electric forces. Coulomb (C) 
