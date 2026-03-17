@@ -6,7 +6,7 @@ Ohm's Law states that "The current flowing through a conductor is directly propo
 ## Equation
 
 \[
-V = I \times R
+V = I * R
 \]
 
 Where:
@@ -60,7 +60,7 @@ Resistance is the **opposition to the flow of current**.
 Unit: Ohm (Ω)
 
 \[
-R = \frac{V}{I}
+R = V/I
 \]
 
 ---
@@ -75,7 +75,7 @@ If:
 Then:
 
 \[
-I = \frac{V}{R} = \frac{10}{5} = 2A
+I = V/R = 10/5 = 2A
 \]
 
 ---
