@@ -1,20 +1,10 @@
 # Kirchhoff’s Laws
 
 Kirchhoff’s Laws are fundamental rules used to analyze electrical circuits.
-
 They are based on the principles of **conservation of charge** and **conservation of energy**.
-
----
-
 # 1. Kirchhoff’s Current Law (KCL)
-
-## What
-
 KCL states:
-
 > The total current entering a node is equal to the total current leaving the node.
-
----
 
 ## Equation
 
@@ -24,15 +14,12 @@ KCL states:
 
 ---
 
-## Why
-
 KCL is based on the **conservation of charge**.
-
 Charge cannot accumulate at a node.
 
 ---
 
-## Where
+## Where it used
 
 - node analysis
 - digital circuits
@@ -48,13 +35,6 @@ If 3A and 2A enter a node:
 \[
 I_{out} = 5A
 \]
-
----
-
-## Key Insight
-
-- Current is **conserved at a node**
-- No charge buildup
 
 ---
 
@@ -144,26 +124,5 @@ Both laws are used together to solve circuits.
 
 ---
 
-# Personal Learning (Day X)
 
-Today I studied:
 
-- Kirchhoff’s Current Law (KCL)
-- Kirchhoff’s Voltage Law (KVL)
-- Their physical meaning and applications
-
----
-
-# Key Insights
-
-- Current never accumulates at a node
-- Voltage around a loop always balances
-- These laws come from fundamental physics
-
----
-
-# Rough Notes
-
-Add your handwritten notes here:
-
-![Kirchhoff Notes](../images/kirchhoff-notes.jpg)
