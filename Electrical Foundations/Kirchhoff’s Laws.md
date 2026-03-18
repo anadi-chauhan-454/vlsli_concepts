@@ -9,7 +9,7 @@ KCL states:
 ## Equation
 
 \[
-\sum I_{in} = \sum I_{out}
+sum of I_in = sum of I_out
 \]
 
 ---
@@ -33,53 +33,32 @@ Charge cannot accumulate at a node.
 If 3A and 2A enter a node:
 
 \[
-I_{out} = 5A
+I_out = 5A
 \]
 
 ---
 
 # 2. Kirchhoff’s Voltage Law (KVL)
-
-## What
-
 KVL states:
-
 > The sum of all voltages in a closed loop is equal to zero.
-
----
 
 ## Equation
 
 \[
-\sum V = 0
+sum V = 0
 \]
 
 ---
-
-## Why
-
 KVL is based on the **conservation of energy**.
-
 Energy supplied = energy consumed.
 
 ---
 
-## Where
+## Where it used
 
 - loop analysis
 - power circuits
 - voltage calculations
-
----
-
-## Example
-
-In a loop:
-
-\[
-10V - 5V - 5V = 0
-\]
-
 ---
 
 ## Key Insight
