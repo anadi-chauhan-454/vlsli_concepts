@@ -45,7 +45,7 @@ A capacitor allows current **only when voltage is changing**.
 ## Energy Stored
 
 \[
-E = 1/2 (C * V^2)
+E = (C * V^2)/2
 \]
 
 ---
