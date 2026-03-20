@@ -86,13 +86,9 @@ Used for **timing, filtering, and signal shaping**.
 
 When connected to a voltage source:
 
-\[
-V(t) = V_0 (1 - e^{-t/RC} \right)
-\]
+V = V₀ (1 − e^(−t/RC))
 
-\[
-I(t) = \frac{V_0}{R} e^{-t/RC}
-\]
+I = (V₀ / R) e^(−t/RC)
 
 ---
 
@@ -100,24 +96,20 @@ I(t) = \frac{V_0}{R} e^{-t/RC}
 
 When capacitor releases energy:
 
-\[
-V(t) = V_0 e^{-t/RC}
-\]
+V = V₀ e^(−t/RC)
 
-\[
-I(t) = -\frac{V_0}{R} e^{-t/RC}
-\]
+I = − (V₀ / R) e^(−t/RC)
 
 ---
+![capacitor-charging-and-discharging](https://github.com/user-attachments/assets/821f80b4-1140-4b56-80e4-67ba6000deff)
 
+---
 # Time Constant (Very Important)
 
-\[
-\tau = RC
-\]
+τ = R × C
 
-- After time \(t = \tau\) → capacitor charges to ~63%  
-- After \(5\tau\) → almost fully charged (~99%)
+- After time t = τ → capacitor charges to ~63%  
+- After 5τ  → almost fully charged (~99%)
 
 ---
 
