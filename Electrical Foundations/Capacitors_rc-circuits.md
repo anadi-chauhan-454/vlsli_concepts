@@ -5,9 +5,6 @@ Capacitors are fundamental components in electronics used for energy storage, fi
 ---
 
 # Capacitor
-
-## What
-
 A capacitor is a **two-terminal passive device** that stores energy in the form of an electric field.
 
 It consists of:
@@ -139,11 +136,6 @@ RC circuits directly relate to:
 - rise/fall time  
 - clock timing  
 
-👉 In VLSI:
-Interconnect wires behave like **RC networks**.
-
----
-
 # Applications
 
 - filters (low-pass, high-pass)  
@@ -169,30 +161,6 @@ Interconnect wires behave like **RC networks**.
 |--------|--------|
 | Capacitor | stores energy in electric field |
 | Q = CV | charge-voltage relation |
-| I = C dV/dt | current relation |
+| I = C * (dV/dt) | current relation |
 | RC | determines timing behavior |
 
----
-
-# Personal Learning (Day X)
-
-Today I studied:
-
-- Capacitor fundamentals  
-- Charging and discharging behavior  
-- RC circuits and time constant  
-
----
-
-# Key Observations
-
-- Capacitors block DC but allow AC  
-- RC circuits define delay in real systems  
-- Time constant is critical in timing analysis  
-
----
-
-# Rough Notes
-
-![Capacitor Notes](../images/capacitor-notes.jpg)
-![RC Circuit Notes](../images/rc-notes.jpg)
