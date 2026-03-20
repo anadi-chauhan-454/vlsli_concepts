@@ -1,9 +1,3 @@
-# Capacitors and RC Circuits
-
-Capacitors are fundamental components in electronics used for energy storage, filtering, and timing applications**.
-
----
-
 # Capacitor
 A capacitor is a **two-terminal passive device** that stores energy in the form of an electric field.
 
