@@ -26,7 +26,7 @@ C = (epsilon *A)/d
 Where:
 
 - \(C\) = capacitance  
-- \(\varepsilon\) = permittivity  
+- \(epsilon\) = permittivity  
 - \(A\) = plate area  
 - \(d\) = distance between plates  
 
