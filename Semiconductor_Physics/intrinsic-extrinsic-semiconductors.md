@@ -1,10 +1,6 @@
-# Intrinsic vs Extrinsic Semiconductors, Doping, and PN Junction
+# Intrinsic vs Extrinsic Semiconductors
 
-These concepts form the foundation of **modern electronics and VLSI devices**.
-
----
-
-# 1. Intrinsic Semiconductor
+# Intrinsic Semiconductor
 
 ## What
 
@@ -40,7 +36,7 @@ At absolute zero:
 
 ---
 
-# 2. Extrinsic Semiconductor
+# Extrinsic Semiconductor
 
 ## What
 
