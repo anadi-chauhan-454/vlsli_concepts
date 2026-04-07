@@ -5,8 +5,8 @@
 A semiconductor is a material whose electrical conductivity is controlled by:
 
 - energy band structure  
-- carrier concentration  
-
+- carrier concentration
+  
 It lies between a conductor and an insulator.
 
 ---
